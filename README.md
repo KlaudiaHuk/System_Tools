@@ -1,2 +1,2 @@
 # System_Tools
-Linux, Bash, Windows, PowerShell. Complete environments and scripting experience.
+Linux, Bash, Windows, and PowerShell - full system and scripting toolset for real-world work.
