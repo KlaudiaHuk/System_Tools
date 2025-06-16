@@ -1,0 +1,51 @@
+Control Panel Tools
+
+Control Panel Overview:
+
+To access the Control Panel, use the search bar:
+Search → Control Panel
+
+You can change how the items are displayed by selecting the ‘View by’ option (e.g., Category, Large icons, Small icons).
+
+
+---
+
+Device Manager:
+
+Use this tool to manage your hardware and check for hardware problems.
+Search → Device Manager, or open it from the Control Panel.
+
+You can also change the view to display different device categories. There's also an option to show hidden devices or customize the layout.
+
+If you see a yellow exclamation mark on a hardware item, it means there is a problem with that device.
+
+Right-clicking on a device gives you options like:
+
+Update driver
+
+Uninstall device
+
+Properties
+
+
+
+---
+
+File History:
+
+This is a backup tool that allows you to back up important files like documents, photos, and desktop files.
+
+Search → File History → Restore your files with File History
+
+You can use it to recover previous versions of files or restore them if they were deleted.
+
+
+---
+
+Indexing Options:
+
+This tool is used for cataloging files, folders, and emails, making search faster and more efficient.
+
+Search → Indexing Options
+
+You can choose which locations to index and troubleshoot search issues from here.
