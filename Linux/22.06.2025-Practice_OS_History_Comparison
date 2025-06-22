@@ -1,0 +1,33 @@
+What is an operating system? (in plain language)
+An operating system (OS) is a translator between you and your computer, It's the first program you install on your device, and it helps manage the hardware and other programs.
+
+¿Qué es un sistema operativo? (en languaje sencillo)
+Un sistema operativo (SO) es un traductor entre tú y tu ordenador. Es el primer programa que instalas en tu dispositivo y se encarga de gestionar el hardware y los demás programas.
+
+Explain what is Linux and briefly mention it's history.
+Linus Torvalds, inspired by UNIX and using the GNU project (which was open source), created an OS kernel and connected it with GNU tools. In 1991, he released the complete open source operating system, known as Linux. 
+
+Explica qué es Linux y menciona bravemente su historia.
+Linus Torvalds, inspirado por UNIX y utilizando el proyecto GNU (que era de código abierto), creó un SO kernel y lo combinó con las herramientas de GNU. En 1991, lanzó el sistema operativo completo como software de código abierto, conocido como Linux.
+
+Compare Linux, Windows and Unix.
+Linux is a free and open-source operating system. Anyone can download it, use it, or modify its code (if they have the skills). It is used by corporations, programmers, and people who like to have control over their systems. Linux is secure and flexible - you can customize it to your preferences. It has a graphical interface, but many tasks are also done through the terminal.
+Compared to Linux, Windows is closed-source and paid OS. It is the most popular operating system for personal use and in offices. It has a simple graphical interface and is perfect for daily activities like browsing the internet, playing video games, using productivity tools. However, it is more prone to virus infections. 
+Unix it's an older system that inspired Linux. Some of its versions are paid and mostly used in corporations and servers. It is not commonly used for personal purposes. Unix offers strong security and stability but is more difficult to maintain. To this day, it serves as the fundation for others systems like macOS and Solaris.
+
+Comparación entre Linux, Windows y Unix.
+Linux es un sistema operativo gratuito y de código abierto. Cualquiera puede descargarlo, usarlo o modificar su código (si tiene los conocimientos necesarios). Es utilizado por empresas, programadores y personas que desean tener control sobre su sistema. Linux es seguro y flexible: se puede personalizar según las preferencias del usuario. Tiene una interfaz gráfica, pero muchas tareas también se pueden hacer desde la terminal.
+En comparación con Linux, Windows es un sistema operativo cerrado y de pago. Es el más popular para uso personal y en oficinas. Tiene una interfaz gráfica sencilla y es ideal para actividades diarias como navegar por internet, jugar videojuegos o usar herramientas de productividad. Sin embargo, es más propenso a infecciones por virus.
+Unix es un sistema más antiguo que inspiró la creación de Linux. Algunas de sus versiones son de pago y se utilizan principalmente en empresas y servidores. No es comúnmente usado a nivel personal. Unix ofrece una gran seguridad y estabilidad, pero es más complejo de mantener. Hasta el día de hoy, sirve como base para otros sistemas como macOS y Solaris.
+
+Name at least two popular Linux distributions.
+Examples of popular Linux distributions are:
+-Ubuntu,
+-Kali,
+-Fedora.
+
+Nombra al menos dos distribuciones populares de Linux.
+Ejemplos de distribuciones populares de Linux son:
+-Ubuntu,
+-Kali,
+-Fedora.
