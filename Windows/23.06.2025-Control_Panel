@@ -1,0 +1,68 @@
+Control Panel:
+
+View by: Category
+
+Categories that we have in our Control Panel:
+System and Security
+Network and Internet
+Hardware and Sound
+Programs
+User Accounts
+Appearance and Personalization
+Clock and Region
+Ease of Access
+
+View by: Large/Small icons:
+Administrative Tools 
+Color Management
+Device Manager
+File History
+Java
+Pen and Touch
+Realtek HD Audio Manager
+Security and Maintenance
+Sync Center
+Troubleshooting
+AutoPlay
+Credential Manager
+Devices and Printers
+Fonts
+Keyboard
+Phone and Modem
+Recovery
+Sound
+System
+User Accounts
+Backup and Restore (Windows 7)
+Date and Time
+Ease of Access Center 
+Indexing Options
+Mouse
+Power Options
+Region
+Speech Recognition
+Tablet PC Settings
+Windows Defender Firewall
+BitLocker Drive Encryption 
+Default Programs
+File Explorer Options
+Internet Options
+Network and Sharing Center
+Programs and Features
+RemoteApp and Desktop Connections
+Storage Spaces
+Taskbar and Navigation
+Work Folders
+
+Administrative Tools - Overview
+Administrative Tools is a section in the Windows Control Panel that contains a set of advanced tools for system management. These tools are mostly used by system administrators, but anyone who wants full control over the system can explore them.
+
+Key Tools and Their Functions:
+Viewer - Allows you to view system logs, errors, warnings, and other events happening on your computer. Useful for troubleshooting.
+Services - Lets you manage Windows services (start, stop, restart). You can see what's running in the background.
+Performance Monitor - A tool for monitoring CPU, memory, disk, and network usage. Helpful in analyzing performance. 
+Task Scheduler - Allows you to create automated tasks like backups, scans, or app launches at specific times.
+Computer Management - A combined tool that includes Disk Management, Device Manager, User Manager, and Event Viewer.
+Windows Memory Diagnostic - Tool to check your RAM for problems. It runs a test after reboot.
+Local Security Policy - Lets you configure security settings such as password policies, user permissions, etc.
+Component Services - Advanced tool for managing COM+ applications and system-level components. Mostly for advanced users.
