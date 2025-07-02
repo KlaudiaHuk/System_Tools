@@ -1,0 +1,9 @@
+CentOS
+Community Enterprise Operating System 
+
+Install CentOS 9 Stream
+
+Virtual Machine -> New -> Name: CentOS9Stream, Type: Linux, Version: Linux 2.6 / 3.x / 4.x (64-bit) -> Settings: Network: Attached to: Bridged Adapter
+
+Download CentOS 9 Stream ISO -> centos.org/download/ -> 9: x86_64 
+Virtual Machine: CentOS9Stream: start -> choose file -> Install
