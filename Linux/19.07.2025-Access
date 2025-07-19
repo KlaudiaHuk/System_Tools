@@ -1,0 +1,23 @@
+Access to Linux System
+
+There are 2 types of access
+Console
+Remote
+
+The console is a direct access to an operating system when it is connected through VGA, HDMI, DVI, etc.
+
+The 2nd type of access is remote where you connect to your operating system remotely over the network
+
+RDP
+Sharing
+Putty Client
+
+Windows 10 or newer version SSH built-in client
+
+Putty is a software which allows you to connect from a Windows system to Linux system remotely (Windows 10 and up cmd- SSH IP or ssh -l name IP)
+
+MAC - Open a terminal on your MAC
+Run the following command
+# ssh -l iafzal 192.168.1.5 (name and IP)
+
+IP ? -ifconfig or ip addr for CentOS 
