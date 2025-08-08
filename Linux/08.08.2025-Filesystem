@@ -1,0 +1,24 @@
+Filesystem
+It is a system used by an operating system to manage files. The system controls how data is saved or retrieved.
+
+There are many different types of filesystems. In general, improvements have been made to filesystems with new releases of operating systems and each new filesystem has been given a different name
+e.g. ext3, ext4, xfs, NTFS, FAT etc.
+
+File System Structure and its Description
+/boot Contains file that is used by the boot loader (grub.cfg)
+/root Root user home directory. It is not same as /
+/dev System devices (e.g. disk, cdrom, speakers, flashdrive, keyboard etc.)
+/etc Configuration files
+/bin or /usr/bin Everyday user commands
+/sbin or /usr/sbin System/filesystem commands
+/opt Optional add-on applications (Not part of OS apps)
+/proc Running processes (Only exist in Memory)
+/lib or usr/lib C programming library file needed by commands and apps
+strace -e open pwd 
+/tmp Directory for temporary files
+/home Directory for user
+/var System logs
+/run System daemons that start very early (e.g. systemd and udev) to store temporary runtime files like PID files
+/mnt To mount external filesystem (e.g. NFS)
+/media For cdrom mounts
+
