@@ -1,0 +1,40 @@
+Navigating File System
+'cd' change directory
+'pwd' print working directory
+'ls' list
+
+Disk C in Linux is Slash
+'whoami' you are going to see your user name
+'su -' switch users, to become root
+'pwd' you know where you are
+'cd /'(change directory) 
+'pwd'again, you know where you are
+'ls -l' tells us what is in it
+'cd boot' changing directory (we are in the list)
+'ls -l' to again see what is inside 
+starts with '-' its a file
+starts with 'd' its a directory or a folder
+'pwd' where am i
+'cd /' slash directory or 'cd ..' step back
+'cd /etc'
+'cd sysconfig/'
+'pwd'
+'cd ..'
+'pwd'
+'cd ..'
+'pwd'
+'cd'
+'pwd'
+'whoami' 
+
+'cd /home' 
+'pwd'
+'ls -l'
+'cd /'
+'ls -l'
+
+'cd var'
+'ls -l'
+'cd log'
+'ls -l'
+'pwd'
