@@ -1,0 +1,38 @@
+Each file or directory in Linux has detail information or properties
+
+Starts with Type:
+D - directory
+L - link to another file
+nothing - text file
+
+# of Links
+The second column is the number of hard links to the file. For a directory, the number of hard links is the number of immediate subdirectories it has plus its parent directory and itself
+
+Owner
+
+Group
+
+Size of the file or directory
+
+Month
+
+Day
+
+Time
+
+Name
+
+File System Paths
+
+There are two paths to navigate to a filesystem
+Absolute Path
+Relative Path
+
+An absolute path always begins with a '/'. This indicates that the path starts at the root directory.
+An example of an absolute path is
+cd/var/log/samba/
+
+A relative path does not begin with a '/'. It identifies a location relative to your current position. An example of relative path is:
+cd /var
+cd log
+cd samba
